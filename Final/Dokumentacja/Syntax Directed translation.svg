@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Wygenerowane w aplikacji Microsoft Visio 11.0, SVG Export, wersja 1.0. Syntax Directed translation.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1045" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#ababad;fill-opacity:0.4;stroke:#ababad;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4;stroke-width:1.2}
+		.st3 {fill:#ffffff;stroke:#9c8607;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st4 {fill:url(#grad30-19)}
+		.st5 {fill:#000000;font-family:Arial;font-size:0.833336em;font-stretch:semi-expanded}
+		.st6 {fill:url(#grad36-46);stroke:#3b3b3b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st7 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st8 {font-size:1em}
+		.st9 {marker-end:url(#mrkr5-67);stroke:#3b3b3b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#3b3b3b;fill-opacity:1;stroke:#3b3b3b;stroke-opacity:1;stroke-width:0.20161290322581}
+		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad29-15" v:fillPattern="29" v:foreground="#f7dd4f" v:background="#fcf1b6" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" style="stop-color:#fcf1b6;stop-opacity:1"/>
+			<stop offset="0.5" style="stop-color:#f7dd4f;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#fcf1b6;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-19" v:fillPattern="30" v:foreground="#f7dd4f" v:foregroundOpacity="0.6" v:background="#fcf1b6"
+				v:backgroundOpacity="0.6" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#f7dd4f;stop-opacity:0.6"/>
+			<stop offset="1" style="stop-color:#fcf1b6;stop-opacity:0.6"/>
+		</linearGradient>
+		<radialGradient id="grad36-46" v:fillPattern="36" v:foreground="#a8c7d0" v:background="#8fb6c2" cx="0" cy="0" r="1">
+			<stop offset="0" style="stop-color:#a8c7d0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#8fb6c2;stop-opacity:1"/>
+		</radialGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-67" class="st10" v:arrowType="5" v:arrowSize="4" v:setback="8.68" refX="-8.68" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-4.96,-4.96) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+			<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Strona 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Schemat blokowy" v:index="0"/>
+		<v:layer v:name="Łącznik" v:index="1"/>
+		<v:layer v:name="Kontener" v:index="2"/>
+		<g id="group6-1" transform="translate(233.858,-389.764)" v:mID="6" v:groupContext="group" v:layerMember="2">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(12):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(20):26"/>
+				<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#edcb0c)"/>
+				<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#fcf1b6)"/>
+				<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#f7dd4f)"/>
+				<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#efcd0c)"/>
+				<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#ffea6f)"/>
+				<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#fdf9e1)"/>
+				<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#fcf4c9)"/>
+				<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#9c8607)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>Kontener 5</title>
+			<g id="group7-2" v:mID="7" v:groupContext="group" v:layerMember="2">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<title>Arkusz.7</title>
+				<g id="shape8-3" v:mID="8" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
+					<title>Arkusz.8</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+						<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.039370078740157):24"/>
+					</v:userDefs>
+					<g id="shadow8-4" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+							transform="matrix(1,0,0,1,1.8,1.8)" class="st1"/>
+				</g>
+				<g id="shape7-7" v:mID="7" v:groupContext="groupContent" v:layerMember="2">
+					<g id="shadow7-8" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+							transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+						<path d="M4.5 595.28 L67.32 595.28 L130.15 595.28 A4.5 4.5 -180 0 0 134.65 590.78 L134.65 503.73 A4.5 4.5
+									 -180 0 0 130.15 499.23 L67.32 499.23 L4.5 499.23 A4.5 4.5 -180 0 0 0 503.73 L0 590.78 A4.5 4.5
+									 -180 0 0 4.5 595.28 Z" class="st2"/>
+					</g>
+					<path d="M4.5 595.28 L67.32 595.28 L130.15 595.28 A4.5 4.5 -180 0 0 134.65 590.78 L134.65 503.73 A4.5 4.5 -180
+								 0 0 130.15 499.23 L67.32 499.23 L4.5 499.23 A4.5 4.5 -180 0 0 0 503.73 L0 590.78 A4.5 4.5 -180 0
+								 0 4.5 595.28 Z" class="st3"/>
+				</g>
+			</g>
+			<g id="group9-11" transform="translate(0,-74.7899)" v:mID="9" v:groupContext="group" v:layerMember="2">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0.0625):0"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0.0083333333333333):29"/>
+					<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0.054166666666667):0"/>
+					<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0.028867513459481):29"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(1.8700787401575):1"/>
+					<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.8700787401575):1"/>
+					<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#f4d72b)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#edcb0c)"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#edcb0c)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+				</v:userDefs>
+				<title>Arkusz.9</title>
+				<desc>Translator</desc>
+				<g id="shape10-12" v:mID="10" v:groupContext="shape" v:layerMember="2">
+					<title>Arkusz.10</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0.0625):0"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(1.8700787401575):1"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0083333333333333):29"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.55269028871391):24"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+				</g>
+				<g id="shape9-16" v:mID="9" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+					<v:textRect cx="67.3228" cy="584.646" width="134.65" height="21.2598"/>
+					<path d="M5.1 594.68 L129.55 594.68 A4.5 4.5 -180 0 0 134.05 590.18 L134.05 579.12 A4.5 4.5 -180 0 0 129.55 574.62
+								 L67.32 574.62 L5.1 574.62 A4.5 4.5 -180 0 0 0.6 579.12 L0.6 590.18 A4.5 4.5 -180 0 0 5.1 594.68
+								 Z" class="st4"/>
+					<text x="42.56" y="587.65" class="st5" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Translator</text>				</g>
+			</g>
+		</g>
+		<g id="group25-22" transform="translate(63.7795,-136.063)" v:mID="25" v:groupContext="group" v:layerMember="2">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.098425196850394):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(12):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvSDHeadingStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDHeadingStyleCount" v:prompt="" v:val="VT0(20):26"/>
+				<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="FnForceContrast" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#edcb0c)"/>
+				<v:ud v:nameU="HColor1" v:prompt="" v:val="VT5(#fcf1b6)"/>
+				<v:ud v:nameU="HColor2" v:prompt="" v:val="VT5(#f7dd4f)"/>
+				<v:ud v:nameU="HColor3" v:prompt="" v:val="VT5(#efcd0c)"/>
+				<v:ud v:nameU="HColor4" v:prompt="" v:val="VT5(#ffea6f)"/>
+				<v:ud v:nameU="BColor1" v:prompt="" v:val="VT5(#fdf9e1)"/>
+				<v:ud v:nameU="BColor2" v:prompt="" v:val="VT5(#fcf4c9)"/>
+				<v:ud v:nameU="LineColor" v:prompt="" v:val="VT5(#9c8607)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>Kontener 5.25</title>
+			<g id="group26-23" v:mID="26" v:groupContext="group" v:layerMember="2">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner6" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<title>Arkusz.26</title>
+				<g id="shape27-24" v:mID="27" v:groupContext="shape" v:layerMember="2" transform="translate(2.83465,2.83465)">
+					<title>Arkusz.27</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="OffsetX10" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+						<v:ud v:nameU="OffsetY10" v:prompt="" v:val="VT0(-0.039370078740157):24"/>
+					</v:userDefs>
+					<g id="shadow27-25" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+							transform="matrix(1,0,0,1,1.8,1.8)" class="st1"/>
+				</g>
+				<g id="shape26-28" v:mID="26" v:groupContext="groupContent" v:layerMember="2">
+					<g id="shadow26-29" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+							transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+						<path d="M4.5 595.28 L279.92 595.28 L555.34 595.28 A4.5 4.5 -180 0 0 559.84 590.78 L559.84 384.34 A4.5 4.5
+									 -180 0 0 555.34 379.84 L279.92 379.84 L4.5 379.84 A4.5 4.5 -180 0 0 0 384.34 L0 590.78 A4.5
+									 4.5 -180 0 0 4.5 595.28 Z" class="st2"/>
+					</g>
+					<path d="M4.5 595.28 L279.92 595.28 L555.34 595.28 A4.5 4.5 -180 0 0 559.84 590.78 L559.84 384.34 A4.5 4.5 -180
+								 0 0 555.34 379.84 L279.92 379.84 L4.5 379.84 A4.5 4.5 -180 0 0 0 384.34 L0 590.78 A4.5 4.5 -180
+								 0 0 4.5 595.28 Z" class="st3"/>
+				</g>
+			</g>
+			<g id="group28-32" transform="translate(0,-194.173)" v:mID="28" v:groupContext="group" v:layerMember="2">
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(6):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HSpan" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HorzAlign" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0.0625):0"/>
+					<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0.0083333333333333):29"/>
+					<v:ud v:nameU="InsideRadius" v:prompt="" v:val="VT0(0.054166666666667):0"/>
+					<v:ud v:nameU="InsetXInt" v:prompt="" v:val="VT0(0.028867513459481):29"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="HTxtWidth" v:prompt="" v:val="VT0(7.7755905511811):1"/>
+					<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(7.7755905511811):1"/>
+					<v:ud v:nameU="SquareCorners7" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="Offset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Rounding8" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="InsetX9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetY9" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY11" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="OffsetY12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Width12" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="HLineVisible" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="HFillVisible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="FillForegndIn" v:prompt="" v:val="VT5(#f4d72b)"/>
+					<v:ud v:nameU="FillBkgndIn" v:prompt="" v:val="VT5(#edcb0c)"/>
+					<v:ud v:nameU="BaseColor" v:prompt="" v:val="VT5(#edcb0c)"/>
+					<v:ud v:nameU="FillPatternIn" v:prompt="" v:val="VT0(30):26"/>
+				</v:userDefs>
+				<title>Arkusz.28</title>
+				<desc>Tworzenie Translatora</desc>
+				<g id="shape29-33" v:mID="29" v:groupContext="shape" v:layerMember="2">
+					<title>Arkusz.29</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeColors" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="msvThemeEffects" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(5):26"/>
+						<v:ud v:nameU="Rounding" v:prompt="" v:val="VT0(0.0625):0"/>
+						<v:ud v:nameU="SquareCorners" v:prompt="" v:val="VT0(3):26"/>
+						<v:ud v:nameU="HLeft" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HRight" v:prompt="" v:val="VT0(7.7755905511811):1"/>
+						<v:ud v:nameU="Hidden" v:prompt="" v:val="VT0(0):5"/>
+						<v:ud v:nameU="BowHeight7" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="Offset7" v:prompt="" v:val="VT0(0.0083333333333333):29"/>
+						<v:ud v:nameU="AnchorPt7" v:prompt="" v:val="VT0(0.55269028871391):24"/>
+						<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+				</g>
+				<g id="shape28-36" v:mID="28" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,6,4,6)" v:tabSpace="42.5197"/>
+					<v:textRect cx="279.921" cy="584.646" width="559.85" height="21.2598"/>
+					<path d="M5.1 594.68 L554.74 594.68 A4.5 4.5 -180 0 0 559.24 590.18 L559.24 579.12 A4.5 4.5 -180 0 0 554.74 574.62
+								 L279.92 574.62 L5.1 574.62 A4.5 4.5 -180 0 0 0.6 579.12 L0.6 590.18 A4.5 4.5 -180 0 0 5.1 594.68
+								 Z" class="st4"/>
+					<text x="225.21" y="587.65" class="st5" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Tworzenie Translatora</text>				</g>
+			</g>
+		</g>
+		<g id="shape1-41" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(113.386,-411.024)">
+			<title>Proces</title>
+			<desc>Kod wejściowy</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow1-42" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="9.2" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Kod wejściowy</text>		</g>
+		<g id="shape2-48" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(265.748,-411.024)">
+			<title>Proces.2</title>
+			<desc>Parsowanie &#38; generacja wyjścia</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow2-49" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="10.75" y="571.62" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Parsowanie &#38; <tspan
+						x="3.86" dy="1.2em" class="st8">generacja wyjścia</tspan></text>		</g>
+		<g id="shape3-55" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(411.024,-411.024)">
+			<title>Proces.3</title>
+			<desc>Kod wynikowy</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow3-56" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="10.09" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Kod wynikowy</text>		</g>
+		<g id="shape4-61" v:mID="4" v:groupContext="shape" v:layerMember="1" transform="translate(184.252,-439.37)">
+			<title>Łącznik dynamiczny</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 602.36 L72.82 602.36" class="st9"/>
+		</g>
+		<g id="shape5-68" v:mID="5" v:groupContext="shape" v:layerMember="1" transform="translate(336.614,-425.197)">
+			<title>Łącznik dynamiczny.5</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 L65.73 588.19" class="st9"/>
+		</g>
+		<g id="shape11-74" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(96.378,-280.63)">
+			<title>Proces.11</title>
+			<desc>Gramatyka języka pascal.g wraz z akcjami tłumaczącymi</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow11-75" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="3.42" y="562.02" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Gramatyka języka <tspan
+						x="7.87" dy="1.2em" class="st8">pascal</tspan>.g wraz z <tspan x="21.87" dy="1.2em" class="st8">akcjami </tspan><tspan
+						x="11.21" dy="1.2em" class="st8">tłumaczącymi</tspan></text>		</g>
+		<g id="shape12-83" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(96.378,-195.591)">
+			<title>Proces.12</title>
+			<desc>ANTLR 3.3</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow12-84" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="15.65" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>ANTLR 3.3</text>		</g>
+		<g id="shape13-89" v:mID="13" v:groupContext="shape" v:layerMember="1" transform="translate(124.724,-280.63)">
+			<title>Łącznik dynamiczny.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M7.09 595.28 L7.09 629.12" class="st9"/>
+		</g>
+		<g id="shape14-95" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(328.819,-240.945)">
+			<title>Proces.14</title>
+			<desc>pascalParser.java</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow14-96" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="3.64" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>pascalParser.java</text>		</g>
+		<g id="shape15-101" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(328.819,-155.906)">
+			<title>Proces.15</title>
+			<desc>pascalLexer.java</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow15-102" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="5.42" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>pascalLexer.java</text>		</g>
+		<g id="shape16-107" v:mID="16" v:groupContext="shape" v:layerMember="1" transform="translate(167.244,-216.85)">
+			<title>Łącznik dynamiczny.16</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L106.05 595.28 A4.5 4.5 0 0 1 110.55 599.78 L110.55 630.46 A4.5 4.5 -180 0 0 115.05 634.96 L152.89
+						 634.96" class="st9"/>
+		</g>
+		<g id="shape17-113" v:mID="17" v:groupContext="shape" v:layerMember="1" transform="translate(167.244,-216.85)">
+			<title>Łącznik dynamiczny.17</title>
+			<desc>Generacja leksera i parsera na podstawie gramatyki</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.829" cy="595.276" width="110.72" height="27.2035"/>
+			<path d="M0 595.28 L106.05 595.28 A4.5 4.5 -180 0 0 110.55 590.78 L110.55 554.42 A4.5 4.5 0 0 1 115.05 549.92 L152.89
+						 549.92" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="51.6937" y="585.676" width="98.2697" height="19.1997" class="st11"/>
+			<text x="51.69" y="592.88" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Generacja leksera i parsera <v:newlineChar/><tspan
+						x="58.81" dy="1.2em" class="st8">na podstawie gramatyki</tspan></text>		</g>
+		<g id="shape18-122" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(520.157,-194.173)">
+			<title>Proces.18</title>
+			<desc>Main.java</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow18-123" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="18.31" y="576.42" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Main.java</text>		</g>
+		<g id="shape19-128" v:mID="19" v:groupContext="shape" v:layerMember="1" transform="translate(399.685,-262.205)">
+			<title>Łącznik dynamiczny.19</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L16.76 595.28 A4.5 4.5 0 0 1 21.26 599.78 L21.26 637.55 A4.5 4.5 -180 0 0 25.76 642.05 L111.79 642.05"
+					class="st9"/>
+		</g>
+		<g id="shape20-134" v:mID="20" v:groupContext="shape" v:layerMember="1" transform="translate(399.685,-177.165)">
+			<title>Łącznik dynamiczny.20</title>
+			<desc>Wykorzystanie leksera i parsera w programie głównym, kompilac...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.7384" cy="557.008" width="96.48" height="46.4035"/>
+			<path d="M0 595.28 L16.76 595.28 A4.5 4.5 -180 0 0 21.26 590.78 L21.26 561.51 A4.5 4.5 0 0 1 25.76 557.01 L111.79 557.01"
+					class="st9"/>
+			<rect v:rectContext="textBkgnd" x="1.72652" y="537.808" width="84.0237" height="38.3997" class="st11"/>
+			<text x="1.73" y="545.01" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Wykorzystanie leksera i <v:newlineChar/><tspan
+						x="26.18" dy="1.2em" class="st8">parsera w <v:newlineChar/></tspan><tspan x="7.72" dy="1.2em" class="st8">programie głównym</tspan>, <v:newlineChar/><tspan
+						x="14.39" dy="1.2em" class="st8">kompilacja javac</tspan></text>		</g>
+		<g id="shape21-145" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(520.157,-364.252)">
+			<title>Proces.21</title>
+			<desc>Kod wejściowy Pascal</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow21-146" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="9.2" y="571.62" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Kod wejściowy <tspan
+						x="23.43" dy="1.2em" class="st8">Pascal</tspan></text>		</g>
+		<g id="shape23-152" v:mID="23" v:groupContext="shape" v:layerMember="1" transform="translate(548.504,-364.252)">
+			<title>Łącznik dynamiczny.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M7.09 595.28 L7.09 714.15" class="st9"/>
+		</g>
+		<g id="shape22-158" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(649.134,-194.173)">
+			<title>Proces.22</title>
+			<desc>Kod wynikowy Python</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Koszt" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Numer procesu" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Właściciel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funkcja" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Data rozpoczęcia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Data zakończenia" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1045" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nie rozpoczęto;W toku;Ukończono;Odłożono;Oczekiwanie na wprowadzenie danych" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1045" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow22-159" v:groupContext="shadow" v:shadowOffsetX="1.8" v:shadowOffsetY="-1.8" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.8,1.8)" class="st1">
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st2"/>
+			</g>
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" rx="4.5" ry="4.5" class="st6"/>
+			<text x="10.09" y="571.62" class="st7" v:langID="1045"><v:paragraph v:horizAlign="1"/><v:tabList/>Kod wynikowy <tspan
+						x="22.98" dy="1.2em" class="st8">Python</tspan></text>		</g>
+		<g id="shape24-165" v:mID="24" v:groupContext="shape" v:layerMember="1" transform="translate(591.024,-208.346)">
+			<title>Łącznik dynamiczny.24</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 588.19 L49.43 588.19" class="st9"/>
+		</g>
+		<g id="shape30-171" v:mID="30" v:groupContext="shape" v:layerMember="1" transform="translate(301.181,-389.764)">
+			<title>Łącznik dynamiczny.30</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L0 612.04 A4.5 4.5 -180 0 0 4.5 616.54 L38.02 616.54 A4.5 4.5 0 0 1 42.52 621.04 L42.52 624.86"
+					class="st9"/>
+		</g>
+	</g>
+</svg>
