@@ -87,7 +87,7 @@ tokens {
 	PrintWriter writer;
 	File f;
 
-	public pascal3gParser(CommonTokenStream input, String fileName) {
+	public pascalParser(CommonTokenStream input, String fileName) {
 		super(input);
 		
 	
