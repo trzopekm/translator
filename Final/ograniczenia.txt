@@ -1,0 +1,7 @@
+nieobs³ugiwane:
+	case
+	tablice
+	stringi
+	else if -> nie t³umaczy na elif
+	parametry funkcji/procedur mog¹ byæ tylko jednego typu
+	

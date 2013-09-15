@@ -1,0 +1,25 @@
+Operacje arytmetyczne
+
+Operacje logiczne
+
+Instrukcje przypisania
+
+Instrukcje inkrementacji, dekrementacji
+
+Deklaracja sta³ych i zmiennych
+
+Wybór prosty Wyra¿eniami warunkowymi if
+
+Pêtle for do while oraz repeat
+
+Instrukcje sterowania
+
+Standardowe procedury we/wy
+
+Standardowe procedury matematyczne
+
+Deklaracje i definicje funkcji
+
+Deklaracje i definicje procedur
+
+Wywo³ania procedur, funkcji
